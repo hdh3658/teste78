@@ -1,0 +1,110 @@
+
+/*body, html {
+	font-family: 'montserrat', sans-serif;
+	background: #000000;
+	text-align: center;*/
+
+html {
+    background-color: #fff;
+    min-height: 100%;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+@media (max-width: 767px)
+* {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+}
+html[Attributes Style] {
+    -webkit-locale: "pt";
+}
+user agent stylesheet
+html {
+    display: block;
+}
+
+
+
+
+
+	
+}
+form#box{
+ width: 300px;
+ padding: 20px;
+ position: absolute;
+ top: 10%;
+ left: 29%;
+ transform: translate(-50%m -50%);
+ background: #525252;
+ text-align: center;
+ border-radius: 12px;
+}
+form#box h1{
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: 50;
+	font-size: 2.5em;
+}
+
+form#box input[type= "text"], form#box input[type="password"]
+{ 
+  background: #fff;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 1px solid #9da3a6;
+  padding: 14px 40px;
+  width: 30%;
+  outline: none;
+  color: #000000;
+  border-radius: 8px;
+  transition: 0.25s;
+  cursor: pointer;
+  font-size: 1em;
+}
+
+
+button {
+    background: #0070ba;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 1px solid #0000CD;
+  padding: 14px 40px;
+  width: 30%;
+  outline: none;
+  color: #fff;
+  border-radius: 8px;
+  transition: 0.25s;
+  cursor: pointer;
+  font-size: 1em;
+}
+p{
+	text-align: center;
+	color: #0070ba;
+    font-family: HelveticaNeue,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    
+    
+    text-decoration: none;
+    -webkit-transition: color .2s ease-out;
+    -moz-transition: color .2s ease-out;
+    -o-transition: color .2s ease-out;
+    transition: color .2s ease-out;
+
+}
+img#imagem{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 147px;
+
+}
